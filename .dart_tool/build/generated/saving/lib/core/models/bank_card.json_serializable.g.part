@@ -1,0 +1,19 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+_$BankCardImpl _$$BankCardImplFromJson(Map<String, dynamic> json) =>
+    _$BankCardImpl(
+      id: (json['id'] as num).toInt(),
+      name: json['name'] as String,
+      number: json['number'] as String,
+      balance: (json['balance'] as num).toDouble(),
+    );
+
+Map<String, dynamic> _$$BankCardImplToJson(_$BankCardImpl instance) =>
+    <String, dynamic>{
+      'id': instance.id,
+      'name': instance.name,
+      'number': instance.number,
+      'balance': instance.balance,
+    };
