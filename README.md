@@ -10,7 +10,7 @@ Develop a Flutter mobile applica9on that allows users to:
 - View the remaining balance of CompA and CompB on the main screen.
 - Check the historical trail of amounts added each year.
 
-### UI Development (30%)
+### UI Development
 
 a) Create a main screen displaying:
     i) Two cards showing the current balance of CompA and CompB.
