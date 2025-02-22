@@ -31,11 +31,13 @@ d) Create a Savings History Screen to show yearly savings and withdrawals.
 2. The system splits it into CompA: 50,000 and CompB: 50,000.
 3. The user withdraws 10,000 from CompA.
 4. The main screen updates:
-
-https://github.com/user-attachments/assets/72bdb789-091e-4862-ba28-01599e3fa02d
-
-
    a) CompA: 40,000
    b) CompB: 50,000
 5. The user checks history and sees:
    a) Year 2025: Savings - 100,000, Withdrawn - 10,000 (CompA)
+
+
+
+
+https://github.com/user-attachments/assets/35428c30-ec6d-4bb6-9535-a1930fce1e80
+
